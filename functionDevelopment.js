@@ -30,6 +30,8 @@
     
 //     return answer;
 // }
+
+
 function solution(progresses, speeds) {
     var answer = [];
     while(progresses.length > 0){
